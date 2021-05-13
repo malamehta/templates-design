@@ -1,1 +1,314 @@
-ugggyutyjgjh
+templates by using basics of html and css
+
+<title>Document</title> <style> body{ background-color: aquamarine; } .maindiv{ background-color: rgb(236, 213, 152); } .div0{ background-color: rgb(53, 53, 151); color:white; font-weight: bold; } .div1{ background-color: rgb(97, 95, 95); height: 65px; display: inline-block; width: 100%; } .div1 p{
+        color: white;
+        font-weight: bold;
+        float: left;
+        margin-right: 800px;
+        margin-left:60px;
+    }
+
+    .navbar li{
+        list-style: none;
+        font-weight: bold;
+        float: left;
+        margin-top: 5px;
+        margin-left: 10px;
+        
+        
+    }
+    .navbar li a{
+        text-decoration: none;
+        font-weight: bold;
+        background-color: coral;
+    
+        margin-left: 5px;
+        margin-right:5px ;
+        padding: 3px;
+        
+
+    }
+    .navbar  li a:hover{
+        color: crimson;
+        background-color: cyan;
+        font-size: 30px;
+
+    }
+    .div2{
+        background-color: rgba(17, 5, 73, 0.959);
+        height: 300px;
+        padding-left:20%;
+        padding-top: 100px;
+
+    }
+    .div2 p{
+        color: white;
+        font-weight: bold;
+        font-size: 50px;
+        
+    }
+    .div3{
+        background-image: url(images/statue.jpg);
+        height: 300px;
+        background-repeat: no-repeat;
+        width: 100%;
+        display: inline-block;
+    }
+    .div3 p{
+        padding-left: 900px;
+        padding-top: 40px;
+        font-weight: bold;
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .div4{
+        background-color: rgb(53, 49, 49);
+        height: 700px;
+        display: inline-block;
+        width: 100%;
+        color: white;
+        
+    }
+    .sub1{
+        text-align: center;
+    }
+    .sub2{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;
+        
+    }
+    .sub3{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+    .sub4{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+    .sub5{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;
+        }
+    .sub6{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;
+    }   
+    .sub7{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;}
+    .div5{
+        background-color: rgb(170, 182, 118);
+        height: 700px;
+        display: inline-block;
+        width: 100%;
+        color:black;
+        
+    }
+    .sub8{
+        text-align: center;
+    }
+    .sub9{
+        float: left;
+        margin-left: 350px;
+        margin-top: 100px;}
+    .sub10{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;}
+    .sub11{
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;}
+    .div5 span{
+        font-weight: bold;
+        text-align: center;
+        background-color: rgb(31, 221, 235);
+        width:800px ;
+    }
+    .div5 img{
+        border: 10px solid rgb(25, 0, 255);
+    }
+    .div6{
+        background-color: rgb(34, 35, 37);
+        height: 400px;
+        display: inline-block;
+        width: 100%;
+    }
+    .div6 .sub12 img{
+        width: 80%;
+        height: 400px;
+       
+        
+    }
+    .sub12{
+        float: left;
+        width: 80%;
+    }
+    .sub13{
+        float: left;
+        color: white;
+        
+    } 
+    .div7{
+        background-color: rgb(78, 76, 76);
+        color: white;
+        height: 300px;
+        display: inline-block;
+        width: 100%;
+    } 
+    .sub14{
+        margin-left:20% ;
+        padding-top: 50px;
+        float: left;
+        
+        
+    } 
+    .sub15{
+        margin-left:5% ;
+        padding-top: 50px;
+        float: left;}  
+    .footer{
+        background-color: rgb(10, 10, 63);
+        text-align: center;
+        color: red;
+        display: inline-block;
+        width: 100%;
+        font-weight: bold;
+        font-size: larger;
+    }          
+</style>
+Emergency call::6266160468
+    </div>
+    <div class="div1">
+        <p>Lead Nepal Law Associate<br>We provide legal remidies</p>
+        <ul class="navbar">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Blogs</a></li>
+        </ul>
+    </div>
+    <div class="div2">
+        <p>
+            The International Law Firm For Business<br>
+        </p>
+        <form">
+            <button type="submit" name=""  >Read more</button>
+        </form>
+    </div>
+    <div class="div3">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, doloremque
+             suscipit fugiat provident<br>
+            , dolores eum voluptate at sunt impedit sit, qui earum perferendis! Dolorum 
+            nesciunt facere cupiditate,
+             officiis ex dolorem.</p>
+    </div>
+    <div class="div4">
+        <div class="sub1">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub2">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub3">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub4">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub5">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub6">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub7">
+            <h1>Pactice Areas </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+    </div>
+    <div class="div5">
+        <div class="sub8">
+            <h1>OUR TEAM MEMBERS </h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit<br>. Nostrum aliquid cum numquam ullam in deleniti ipsam .</p>
+        </div>
+        <div class="sub9">
+            <img src="images/mala3.jpg.jpg" style="height: 300px; width: 200px;"><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                MALA MEHTA&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+        </div>
+        <div class="sub10">
+            <img src="images/mala3.jpg.jpg" style="height: 300px; width: 200px;"><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                MALA MEHTA&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+        </div>
+        <div class="sub11">
+            <img src="images/mala3.jpg.jpg" style="height: 300px; width: 200px;"><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                MALA MEHTA&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+        </div>
+
+    </div>
+    <div class="div6">
+        <div class="sub12">
+            <img src="images/statue.jpg">
+
+
+        </div>
+        <div class="sub13">
+            APPOINTMENT<br><br>
+
+            <form>
+                 FRIST NAME:<input type="text"><br><br> LAST NAME:<input type="text"><br><br>
+                 EMAIL:<input type="email"><br><br>
+                 MOBILE No.:<input type="number"><br><br>
+                 <input type="submit">
+            </form>
+
+        </div>
+    </div>
+    <div class="div7">
+        <div class="sub14">
+            <ul>
+                <span>IMPORTANT LINKS</span><br><br>
+                <li>LINKS 1</li>
+                <li>LINKS 2</li>
+                <li>LINKS 3</li>
+                <li>LINKS 4</li>
+                <li>LINKS 5</li>
+            </ul>
+
+        </div>
+        <div class="sub15">
+            <ul>
+                <span>PRACTICE AREAS</span><br><br>
+                <li>AREAS !</li>
+                <li>AREAS 2</li>
+                <li>AREAS 3</li>
+                <li>AREAS 4</li>
+                <li>AREAS 5</li>
+            </ul>
+
+        </div>
+        
+
+    </div>
+    <div class="footer">
+        <p>=========================COPYRIGHT@123===================================</p>
+
+    </div>
+   
+</div>
